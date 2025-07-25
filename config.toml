@@ -1,0 +1,6 @@
+# 无需 sudo 权限即可执行的命令
+show_data = "apt-cache show"
+# 需要 sudo 权限才能执行的 apt 命令列表
+update= "sudo apt update"
+upgrade = "sudo apt upgrade"
+install = "sudo apt install"
