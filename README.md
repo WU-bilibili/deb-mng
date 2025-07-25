@@ -1,0 +1,1 @@
+一个基于apt/dpkg管理debian软件包的应用
